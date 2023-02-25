@@ -1,0 +1,22 @@
+{
+  "name": "inverted-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albassaro/Modeule26.-Unit-test.git"
+  },
+  "author": "sergey savelev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albassaro/Modeule26.-Unit-test/issues"
+  },
+  "homepage": "https://github.com/albassaro/Modeule26.-Unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
